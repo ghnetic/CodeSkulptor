@@ -1,3 +1,3 @@
 #Programa que imprime mi nombre completo
 
-print "Sofia Gineth Valladares Videa"
+print "Aqui escriba su nombre completo"
