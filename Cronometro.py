@@ -43,8 +43,8 @@ def convertir(tiempo):
     D =str(tiempo%10)
     tiempo =tiempo/10
     #Segundos
-    C =str(tiempo%10)
-    tiempo=tiempo/10
+    C =str(tiempo%6)
+    tiempo=tiempo/6
     #Segundos
     B =str(tiempo%8)
     tiempo=tiempo/10
